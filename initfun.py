@@ -6,4 +6,4 @@ class person:
 def myfunc(self):
     print("Hello my name is"+self.name)
 p1=person("kanchan",20)
-p1.myfunc()    
+print(p1.myfunc())  
