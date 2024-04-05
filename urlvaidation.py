@@ -13,13 +13,13 @@ def check(s):
 if __name__ == '__main__':
 
 	# Enter the email
-	email = "kanchan326@gmail.com"
+	email = "ankitrai326@gmail.com"
 
 	# calling run function
 	check(email)
 
-	email = "harshada.patil@our-earth.org"
+	email = "my.ownsite@our-earth.org"
 	check(email)
 
-	email = "vaibhavii326.com"
+	email = "ankitrai326.com"
 	check(email)
